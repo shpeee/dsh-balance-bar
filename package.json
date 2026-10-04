@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "DSH plugin: shows the DeepSeek account balance in the sidebar foot and opens the Platform usage page in-app.",
+  "description": "在你的用户名上方显示余额.",
   "license": "MIT",
   "keywords": [
     "dsh",
